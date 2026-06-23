@@ -4,9 +4,8 @@ import numpy as np
 
 model = joblib.load("house_price_model.pkl")
 
-st.title("🏠 House Price Prediction App")
-
-st.write("Enter house details:")
+st.title("🏠 House Price Prediction")
+st.markdown("Enter house details below and click Predict.")
 
 area = st.number_input("Area (sq ft)", min_value=0)
 bedrooms = st.number_input("Bedrooms", min_value=0)
