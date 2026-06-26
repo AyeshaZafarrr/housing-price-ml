@@ -152,4 +152,6 @@ GitHub:
 https://github.com/AyeshaZafarrr/housing-price-ml
 
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn:
+https://www.linkedin.com/in/ayesha-zafar-083741358/
+
